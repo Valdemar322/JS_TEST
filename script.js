@@ -1,6 +1,6 @@
 "use strict";
 
-alert("Helllo!")
+alert("Helllo! World")
 let user_answer = confirm("Are you 18 years old?")
 console.log(user_answer)
 let user_str = prompt("What do you think about LGBT?","")
